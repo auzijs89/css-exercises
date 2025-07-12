@@ -1,0 +1,13 @@
+.blk-btn {
+    background-color: #000;
+    color: #fff;
+}
+
+.ylw-btn {
+    background-color: #f7eb05;
+    color: #000;
+}
+
+.blk-btn, .ylw-btn {
+    font-size: 36px;
+}
